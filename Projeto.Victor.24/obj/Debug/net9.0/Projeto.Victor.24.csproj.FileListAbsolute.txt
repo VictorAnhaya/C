@@ -1,0 +1,14 @@
+C:\Users\Victor Anhaya\Projeto.Victor.24\bin\Debug\net9.0\Projeto.Victor.24.exe
+C:\Users\Victor Anhaya\Projeto.Victor.24\bin\Debug\net9.0\Projeto.Victor.24.deps.json
+C:\Users\Victor Anhaya\Projeto.Victor.24\bin\Debug\net9.0\Projeto.Victor.24.runtimeconfig.json
+C:\Users\Victor Anhaya\Projeto.Victor.24\bin\Debug\net9.0\Projeto.Victor.24.dll
+C:\Users\Victor Anhaya\Projeto.Victor.24\bin\Debug\net9.0\Projeto.Victor.24.pdb
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.AssemblyInfoInputs.cache
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.AssemblyInfo.cs
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.csproj.CoreCompileInputs.cache
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.dll
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\refint\Projeto.Victor.24.dll
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.pdb
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\Projeto.Victor.24.genruntimeconfig.cache
+C:\Users\Victor Anhaya\Projeto.Victor.24\obj\Debug\net9.0\ref\Projeto.Victor.24.dll
